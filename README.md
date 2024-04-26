@@ -8,3 +8,9 @@ Seção 5 – Isenção de Garantias e Limitação de Responsabilidade.
 Seção 6 – Vigência e Rescisão.
 Seção 7 – Outros Termos e Condições.
 Seção 8 – Interpretação.
+
+
+
+
+CC POR 4,0
+Atribuição Creative Commons 4.0 Internacional
