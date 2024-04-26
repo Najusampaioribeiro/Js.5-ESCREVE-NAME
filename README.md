@@ -1,16 +1,3 @@
 # Js.5-ESCREVE-NAME
-Atribuição-NãoComercial-SemDerivativos 4.0 Internacional
-Seção 1 – Definições.
-Seção 2 – Escopo.
-Seção 3 – Condições de Licença.
-Seção 4 – Direitos Sui Generis sobre Banco de Dados.
-Seção 5 – Isenção de Garantias e Limitação de Responsabilidade.
-Seção 6 – Vigência e Rescisão.
-Seção 7 – Outros Termos e Condições.
-Seção 8 – Interpretação.
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref= selector-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px ;alinhamento vertical:fundo do texto;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align: texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align: texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align: texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 
-
-
-
-CC POR 4,0
-Atribuição Creative Commons 4.0 Internacional
